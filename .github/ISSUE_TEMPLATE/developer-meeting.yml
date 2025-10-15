@@ -1,7 +1,7 @@
 name: Developer Meeting
 description: Template for scheduling and documenting developer meetings.
 title: "Meeting on dd.mm.yyyy"
-labels: ["meeting type::developer"]
+labels: ["developer meeting"]
 body:
   - type: textarea
     id: meeting_intro
