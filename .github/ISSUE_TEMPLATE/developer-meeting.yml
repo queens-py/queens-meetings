@@ -74,7 +74,7 @@ body:
     attributes:
       label: Agenda
       description: Add agenda items here.
-      value: "Adapt the agenda here directly or comment points you would like to add below.\n1. Review **Action Items** from the previous meeting\n2. Check for changes that should be added to the changelog or announced to the community.\n3. Assign a developer who will be responsible for updating the dependencies this month."
+      value: "Adapt the agenda here directly or comment points you would like to add below.\n1. Review **Action Items** from the previous meeting\n2. Check for changes that should be added to the changelog or announced to the community.\n3. Take care of updating the dependencies for this month: If no one has assigned themselves to review the dependency-update PR, explicitly assign the task to a developer."
 
   - type: textarea
     id: action_items
